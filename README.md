@@ -14,10 +14,13 @@ program it is used for.
 
 Core Functionality:
 - Parse through an excel file containing requirements
--
+- Add/remove terms from each requirement
+- Remove entire swaths of redundant/outdated requirements
+- Match requirements based on context from different DOORS documents
+- Flag requirements based on some criteria
+- Understand (to some degree) the context in which these requirements exist
+- Have a GUI for ease of use
+- Be simple enough for persistent use in the future
+- Be capable for operating on an internet-limited, closed space desktop
 
 
-Roadmap:
-[x] something
-[ ] dddd
-[ ] d dddd 
